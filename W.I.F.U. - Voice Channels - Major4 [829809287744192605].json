@@ -1,0 +1,596 @@
+{
+  "guild": {
+    "id": "829808985556910091",
+    "name": "W.I.F.U.",
+    "iconUrl": "https://cdn.discordapp.com/icons/829808985556910091/0e124c8a74ba512970f89f5673eca58a.png?size=512"
+  },
+  "channel": {
+    "id": "829809287744192605",
+    "type": "GuildVoiceChat",
+    "categoryId": "829808986139394069",
+    "category": "Voice Channels",
+    "name": "Major4",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-02-07T20:19:10.7927991-06:00",
+  "messages": [
+    {
+      "id": "1211510751722995762",
+      "type": "Default",
+      "timestamp": "2024-02-25T21:11:11.992-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/1RgfBv7Pbp9MSnJvCjgiip?si=0897677510ff4af0",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Basket Case - 4-track demo",
+          "url": "https://open.spotify.com/track/1RgfBv7Pbp9MSnJvCjgiip?si=0897677510ff4af0",
+          "timestamp": null,
+          "description": "Green Day · Song · 2023",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZoVQhnP-Ja5lLuW63Pi0bVU6OvmmTbnzbePwlMd0ghQ/https/i.scdn.co/image/ab67616d0000b27367af2f45da294feb6d31e6a8",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1211887927722778675",
+      "type": "Default",
+      "timestamp": "2024-02-26T22:09:57.758-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "850 E Adams Ave, Mahnomen, MN 56557",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1211890857347645450",
+      "type": "Default",
+      "timestamp": "2024-02-26T22:21:36.235-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1211890856856915969",
+          "url": "https://cdn.discordapp.com/attachments/829809287744192605/1211890856856915969/FemboyMemeWallpaper.png?ex=67a78490&is=67a63310&hm=15e9933e7423cfb976b5741390bd3859ed1c1f8cc0c1938131a4d405a06ba5af&",
+          "fileName": "FemboyMemeWallpaper.png",
+          "fileSizeBytes": 3392552
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1248831378796052521",
+      "type": "Default",
+      "timestamp": "2024-06-07T21:50:02.87-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BRB",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1251346824154058753",
+      "type": "Default",
+      "timestamp": "2024-06-14T20:25:31.778-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wifu.rubberrooms.org",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1257517269651820616",
+      "type": "Default",
+      "timestamp": "2024-07-01T21:04:40.626-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@NikoNikoNiiiiii @baxjax",
+      "author": {
+        "id": "230082388569358336",
+        "name": "trigato",
+        "discriminator": "0000",
+        "nickname": "borz",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/230082388569358336/1e03b2eacf49dffee76880255f815bcb.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1257517269639233608",
+          "url": "https://cdn.discordapp.com/attachments/829809287744192605/1257517269639233608/image.png?ex=67a80d38&is=67a6bbb8&hm=73872870e20b69e19536160833e5fdbc14e56f3f3f4fb1642d6db3f3f1e4e921&",
+          "fileName": "image.png",
+          "fileSizeBytes": 17861
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "290256357481906177",
+          "name": "baxjax",
+          "discriminator": "0000",
+          "nickname": "baxjax",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+        },
+        {
+          "id": "492124914946670593",
+          "name": "frodotheturtle",
+          "discriminator": "0000",
+          "nickname": "NikoNikoNiiiiii",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "891110963594551356",
+              "name": "Local Diversity",
+              "color": "#E91E63",
+              "position": 7
+            },
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "939240770026733678",
+              "name": "Poopy bois",
+              "color": "#632B14",
+              "position": 4
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1257517285988372510",
+      "type": "Default",
+      "timestamp": "2024-07-01T21:04:44.521-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fuck you",
+      "author": {
+        "id": "230082388569358336",
+        "name": "trigato",
+        "discriminator": "0000",
+        "nickname": "borz",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/230082388569358336/1e03b2eacf49dffee76880255f815bcb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290502754669694996",
+      "type": "Default",
+      "timestamp": "2024-09-30T21:37:13.095-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://shopcannastyle.com/products/purple-crystal-ball-bong",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PURPLE CRYSTAL BALL BONG",
+          "url": "https://shopcannastyle.com/products/purple-crystal-ball-bong",
+          "timestamp": null,
+          "description": "Cast your spells with each puff on our crystal ball bong. With each inhale, the ball with fill with smoke\nFeatures a shower-head percolator for superior smoke filtration\nBall Material: Glass (The ent",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/iHo-rMQ21_UZrm_4cT2maeIaIHKpIrbHlfhGPfMdBfo/%3Fv%3D1664214770/https/shopcannastyle.com/cdn/shop/products/082022_IMG_9957_3-2_large.jpg",
+            "width": 343,
+            "height": 480
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1290520690231087194",
+      "type": "23",
+      "timestamp": "2024-09-30T22:48:29.266-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1253407354087542866",
+        "name": "Arena Kingdoms",
+        "discriminator": "7350",
+        "nickname": "Arena Kingdoms",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1253407354087542866/0b6467315daab4cb487c4de4f8751b13.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "interaction": {
+        "id": "1290520689270329406",
+        "name": "launch",
+        "user": {
+          "id": "290256357481906177",
+          "name": "baxjax",
+          "discriminator": "0000",
+          "nickname": "baxjax",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+        }
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

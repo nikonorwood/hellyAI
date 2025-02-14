@@ -1,0 +1,14 @@
+[Unit]
+Description = Helly Discord Server
+
+[Service]
+ExecStart=/home/niko/Ollama-helloHelly/main.mjs
+Restart=always
+User=niko
+Group=nogroup
+Enviroment=PATH=/usr/bin:/usr/local/bin
+Enviroment=NODE_ENV=production
+WorkingDirectory=/home/niko/Ollama-helloHelly
+
+[Install]
+WantedBy=multi-user.target

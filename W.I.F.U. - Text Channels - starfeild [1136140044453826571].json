@@ -1,0 +1,4108 @@
+{
+  "guild": {
+    "id": "829808985556910091",
+    "name": "W.I.F.U.",
+    "iconUrl": "https://cdn.discordapp.com/icons/829808985556910091/0e124c8a74ba512970f89f5673eca58a.png?size=512"
+  },
+  "channel": {
+    "id": "1136140044453826571",
+    "type": "GuildTextChat",
+    "categoryId": "829808986139394068",
+    "category": "Text Channels",
+    "name": "starfeild",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-02-07T20:18:09.2777729-06:00",
+  "messages": [
+    {
+      "id": "1136140111462006815",
+      "type": "Default",
+      "timestamp": "2023-08-01T22:35:11.035-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello there",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1136149517893386301",
+      "type": "Default",
+      "timestamp": "2023-08-01T23:12:33.703-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HEE HEE ala Michael Jackson",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1143737340733436005",
+      "type": "Default",
+      "timestamp": "2023-08-22T21:43:51.643-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1143737340477571163",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1143737340477571163/Starfield-IntoTheStarfield_Wallpaper_5654x2763-01.jpg?ex=67a76da7&is=67a61c27&hm=a5a1442cc4f4e60f2b7f66062791fe1374bc891f6654e081f1fa1aeff7818bb5&",
+          "fileName": "Starfield-IntoTheStarfield_Wallpaper_5654x2763-01.jpg",
+          "fileSizeBytes": 1071560
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1143751368188903534",
+      "type": "Default",
+      "timestamp": "2023-08-22T22:39:36.049-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/yeah-yes-zoom-in-okay-ok-gif-17003479",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/yeah-yes-zoom-in-okay-ok-gif-17003479",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DpeHLCD07vwL5W0BXwbf35Gr4zND8OJDg-VfQU8xiAs/https/media.tenor.com/HGlTnmdydTEAAAAD/yeah-yes.png",
+            "width": 640,
+            "height": 476
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/CNjgLWti7Yh_EcqVd8dtDbAf3cBlLaoEiMoiaHStNp0/https/media.tenor.com/HGlTnmdydTEAAAPo/yeah-yes.mp4",
+            "width": 640,
+            "height": 476
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1143760958003613716",
+      "type": "Default",
+      "timestamp": "2023-08-22T23:17:42.439-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "10 days folks",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147038134723432468",
+      "type": "Default",
+      "timestamp": "2023-09-01T00:20:02.256-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@baxjax",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1147038134182359070",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1147038134182359070/20230901001847_1.jpg?ex=67a79242&is=67a640c2&hm=02cec41dcf391abf74fc5719b7c999bf15671acad1840f36592c0d659c91abcf&",
+          "fileName": "20230901001847_1.jpg",
+          "fileSizeBytes": 340034
+        },
+        {
+          "id": "1147038134442397757",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1147038134442397757/20230901001855_1.jpg?ex=67a79242&is=67a640c2&hm=fe5e6392f2e2ecfc11525a20d623f36c450b390694f88d8f235fab85da799385&",
+          "fileName": "20230901001855_1.jpg",
+          "fileSizeBytes": 286818
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "290256357481906177",
+          "name": "baxjax",
+          "discriminator": "0000",
+          "nickname": "baxjax",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147038588656168971",
+      "type": "Default",
+      "timestamp": "2023-09-01T00:21:50.482-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can’t wait to get my pre-order",
+      "author": {
+        "id": "513864635808612385",
+        "name": "jackinthebox_james",
+        "discriminator": "0000",
+        "nickname": "Streaming",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/513864635808612385/04018a6bed79adca3b9b91f5c073255b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147038612869885972",
+      "type": "Default",
+      "timestamp": "2023-09-01T00:21:56.255-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@NikoNikoNiiiiii is it pretty good",
+      "author": {
+        "id": "513864635808612385",
+        "name": "jackinthebox_james",
+        "discriminator": "0000",
+        "nickname": "Streaming",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/513864635808612385/04018a6bed79adca3b9b91f5c073255b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492124914946670593",
+          "name": "frodotheturtle",
+          "discriminator": "0000",
+          "nickname": "NikoNikoNiiiiii",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "891110963594551356",
+              "name": "Local Diversity",
+              "color": "#E91E63",
+              "position": 7
+            },
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "939240770026733678",
+              "name": "Poopy bois",
+              "color": "#632B14",
+              "position": 4
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147049609902968902",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:05:38.152-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147049624138432553",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:05:41.546-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes it is",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147049691272445972",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:05:57.552-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im not very far into actual gameplay",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147052864640925776",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:18:34.142-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok so",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147052896630878308",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:18:41.769-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My game was tweaking as hell",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147052915517833266",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:18:46.272-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Extremely buggy",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147052940692041808",
+      "type": "Default",
+      "timestamp": "2023-09-01T01:18:52.274-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But the game is amazing",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147132125020164238",
+      "type": "Default",
+      "timestamp": "2023-09-01T06:33:31.289-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s weird cus I hasn’t run into any bugs, and dando only found one",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147166299219312720",
+      "type": "Default",
+      "timestamp": "2023-09-01T08:49:19.053-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Benji has his settings to high",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147173783317270558",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:19:03.401-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "They should not be bugging on my like that",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147173832633888885",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:19:15.159-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lag isn't bugs",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147173874044256276",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:19:25.032-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats just performance",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147173925487399073",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:19:37.297-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "turn down graphics",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178578212040786",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:06.593-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It want just that",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178607047868467",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:13.468-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The gane nearly frozen 5 times",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178654766469160",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:24.845-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And the characters would move their face",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178660651077725",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:26.248-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pauseb",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178668494442506",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:28.118-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178682696355891",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:31.504-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The audio playedb",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178683673608294",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:31.737-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "turn down graphics!",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178712844996608",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:38.692-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Long after they talked",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178760119005186",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:49.963-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Turn down graphics!",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178792578711562",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:38:57.702-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cj those were bugs",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147178854725718107",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:39:12.519-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Turn down grphics!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179144250130524",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:21.547-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just turned it down",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179159819407533",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:25.259-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And same results",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179189951279204",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:32.443-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More!!!!!!!!!!!!!",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179197509410826",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:34.245-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If it's bugging this much on medium",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179225309257882",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:40.873-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not playing om low graphics",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179249418121216",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:46.621-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who do you think I am",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179261292183563",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:40:49.452-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "30 fps",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179467970719804",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:41:38.728-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hell no",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179517174104114",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:41:50.459-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "These audio keeps pausing",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179535062794270",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:41:54.724-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then playing",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179549923213332",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:41:58.267-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you know what you have to do",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147179553865867338",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:41:59.207-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The audio is so broken",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147180046172299375",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:43:56.582-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just turned everything to low",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147180100157194291",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:44:09.453-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And it's still damn unplayable",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147180219304788078",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:44:37.86-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Save/apply your settings",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147180292625403974",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:44:55.341-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You might have to restart game",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147180370266173542",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:45:13.852-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nah",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147181165023862794",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:48:23.337-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Damn this is stupid",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147181194933436536",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:48:30.468-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've done everything",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147181209294733402",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:48:33.892-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still broke as hell",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147181493198786740",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:49:41.58-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can't have shit in starfield",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147183443688571010",
+      "type": "Default",
+      "timestamp": "2023-09-01T09:57:26.613-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like I need help with these bugs man they better patch it",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147186378417909782",
+      "type": "Default",
+      "timestamp": "2023-09-01T10:09:06.307-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When I get home tonight I need someone's help",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249389585317978",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:19:29.34-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can someone possibly help rn",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249495420186665",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:19:54.573-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I told you what to do",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249551640633445",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:20:07.977-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And I did all those",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249568141033522",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:20:11.911-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nothing worked",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249651980963940",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:20:31.9-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Still broken as hell",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249700760719401",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:20:43.53-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Did it work on the lowest settings?",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249885607899206",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:21:27.601-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249910035517440",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:21:33.425-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Game is legit broken",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249930050740324",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:21:38.197-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've done every online guide too",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147249965324849263",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:21:46.607-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Play it on your Xbox",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147250061596700812",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:22:09.56-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hell to the hell nah",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147250785856528484",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:25:02.237-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I found the issue",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147250909726900376",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:25:31.77-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Apparently you just gotta Uninstall and reinstall",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147258007491719219",
+      "type": "Default",
+      "timestamp": "2023-09-01T14:53:44.009-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It works now",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147260213578190878",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:02:29.981-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's such a benji problem",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147261071762137229",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:05:54.588-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm always getting claptrapped",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147261094721757295",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:06:00.062-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mhm",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147265686285066250",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:24:14.776-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really feel as if starfield will be the best game of the decade",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147265737652703314",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:24:27.023-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm at the vanguard recruitment center",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147265756204109916",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:24:31.446-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The museum was so cool",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147265842019565648",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:24:51.906-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dude I wouldn't talk too much about it because people haven't started yet",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147266780591570974",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:28:35.679-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oops",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147266798224416879",
+      "type": "Default",
+      "timestamp": "2023-09-01T15:28:39.883-05:00",
+      "timestampEdited": "2023-09-01T15:28:43.662-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I didn't spoil tho",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147296985112649848",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:28:36.998-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":AMONGSUS: benjji i havent played it yet",
+      "author": {
+        "id": "779099249958322236",
+        "name": "wishous",
+        "discriminator": "0000",
+        "nickname": "wishous",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779099249958322236/e07d9efd5c55de7e6aae3cce3e3bd4ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1045054553420214282",
+          "name": "AMONGSUS",
+          "code": "AMONGSUS",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1045054553420214282.png"
+        }
+      ]
+    },
+    {
+      "id": "1147297123881193542",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:29:10.083-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nor have you been wearing the pants lately",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147297190209925331",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:29:25.897-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "skirt girl",
+      "author": {
+        "id": "779099249958322236",
+        "name": "wishous",
+        "discriminator": "0000",
+        "nickname": "wishous",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779099249958322236/e07d9efd5c55de7e6aae3cce3e3bd4ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147297439930392707",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:30:25.435-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "?",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147297494108209273",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:30:38.352-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shush:",
+      "author": {
+        "id": "779099249958322236",
+        "name": "wishous",
+        "discriminator": "0000",
+        "nickname": "wishous",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/779099249958322236/e07d9efd5c55de7e6aae3cce3e3bd4ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "782721270831775784",
+          "name": "shush",
+          "code": "shush",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/782721270831775784.png"
+        }
+      ]
+    },
+    {
+      "id": "1147301453904482334",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:46:22.441-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now how does benji know these things",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147302081120718938",
+      "type": "Default",
+      "timestamp": "2023-09-01T17:48:51.981-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I never had a choice sam",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147336840312012931",
+      "type": "Default",
+      "timestamp": "2023-09-01T20:06:59.218-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Benji are your drivers outdated I havent had any issues at all",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147336866480259203",
+      "type": "Default",
+      "timestamp": "2023-09-01T20:07:05.457-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BENJAMONSTER",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "471391158455762947",
+          "name": "benjibeatzz",
+          "discriminator": "0000",
+          "nickname": "BENJAMONSTER",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147337032566317056",
+      "type": "Default",
+      "timestamp": "2023-09-01T20:07:45.055-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nvm",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147976377241456773",
+      "type": "Default",
+      "timestamp": "2023-09-03T14:28:16.704-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "PSA apparently there is a bug with ship display areas such as weapon racks and mannequins that will make your items disappear",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147976407117471855",
+      "type": "Default",
+      "timestamp": "2023-09-03T14:28:23.827-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "According to Reddit",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1147976429993218128",
+      "type": "Default",
+      "timestamp": "2023-09-03T14:28:29.281-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don’t get mine until the eighth",
+      "author": {
+        "id": "513864635808612385",
+        "name": "jackinthebox_james",
+        "discriminator": "0000",
+        "nickname": "Streaming",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/513864635808612385/04018a6bed79adca3b9b91f5c073255b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148048648622583858",
+      "type": "Default",
+      "timestamp": "2023-09-03T19:15:27.544-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not to brag but ive now built an outpost",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148048768214773912",
+      "type": "Default",
+      "timestamp": "2023-09-03T19:15:56.057-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also @baxjax ive followed in your footsteps and started to steal any ship i come across",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "290256357481906177",
+          "name": "baxjax",
+          "discriminator": "0000",
+          "nickname": "baxjax",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "829810562585985104",
+              "name": "Server Down?",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "831317070439645214",
+              "name": "God Squad",
+              "color": "#665203",
+              "position": 5
+            },
+            {
+              "id": "1324179617602469900",
+              "name": "Fallout February",
+              "color": "#9B59B6",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148127099450839090",
+      "type": "Default",
+      "timestamp": "2023-09-04T00:27:11.679-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1148127099127873607",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1148127099127873607/20230903171842_1.jpg?ex=67a793ef&is=67a6426f&hm=832639d114dcf7e0dcf5a2ebc18cf634911fe903155aa426c34b1bcd5c35ea18&",
+          "fileName": "20230903171842_1.jpg",
+          "fileSizeBytes": 693001
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148127246511505459",
+      "type": "Default",
+      "timestamp": "2023-09-04T00:27:46.741-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1148127246280835164",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1148127246280835164/20230902154506_1.jpg?ex=67a79412&is=67a64292&hm=bcf06559bd408060a8ecaf1ab1615933161cd21a127df1e3908d94743166e458&",
+          "fileName": "20230902154506_1.jpg",
+          "fileSizeBytes": 398280
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148141588086792313",
+      "type": "Default",
+      "timestamp": "2023-09-04T01:24:46.039-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1148141588258770984",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1148141588258770984/Screenshot_20230904-012419.png?ex=67a7a16e&is=67a64fee&hm=c97cd1a548167322d5249265ef8f29e37205e03ee63687570893ad27c20a5254&",
+          "fileName": "Screenshot_20230904-012419.png",
+          "fileSizeBytes": 501199
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1148401123892416683",
+      "type": "Default",
+      "timestamp": "2023-09-04T18:36:04.197-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "space batman moment",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1148401123615580241",
+          "url": "https://cdn.discordapp.com/attachments/1136140044453826571/1148401123615580241/20230904162521_1.jpg?ex=67a7ea64&is=67a698e4&hm=b634aed28deb6aad8e5d2fbc59e7cf2ad920382a3c775cdff2c568a8c5f38585&",
+          "fileName": "20230904162521_1.jpg",
+          "fileSizeBytes": 587901
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152101453821923370",
+      "type": "Default",
+      "timestamp": "2023-09-14T23:39:51.601-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "STARFEILD WILL GET DLSS in it's first patch!",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152114598909050881",
+      "type": "Default",
+      "timestamp": "2023-09-15T00:32:05.634-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I already got a mod for it",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414115525034034",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:22:15.96-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good job benji, I'm very proud of you",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414314850963466",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:23:03.483-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aint got shit on me",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414368378667048",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:23:16.245-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what?",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414456782000220",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:23:37.322-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bethesda",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414476914675743",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:23:42.122-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "total haters man",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152414583038951455",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:24:07.424-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no fov slider on launch smh",
+      "author": {
+        "id": "471391158455762947",
+        "name": "benjibeatzz",
+        "discriminator": "0000",
+        "nickname": "BENJAMONSTER",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/471391158455762947/d743624acee54f8ce8cd20d64a0e7857.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1152416959581917194",
+      "type": "Default",
+      "timestamp": "2023-09-15T20:33:34.036-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what a damn shame",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1153166937484955719",
+      "type": "Default",
+      "timestamp": "2023-09-17T22:13:42.702-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://reddit.com/r/Starfield/s/NnBZWTJBLC",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "From the Starfield community on Reddit: In one of my weirdest Bethe...",
+          "url": "https://reddit.com/r/Starfield/s/NnBZWTJBLC",
+          "timestamp": null,
+          "description": "Explore this post and more from the Starfield community",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-wW59HZOKTBkuJFedf6o0gTGXOYmW5lw7KHLOOm8UfQ/https/share.redd.it/preview/post/16ja5t6",
+            "width": 1120,
+            "height": 584
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1153180451435986994",
+      "type": "Default",
+      "timestamp": "2023-09-17T23:07:24.679-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THIS HAS BEEN HAPPENING TO JACOB",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1153803089732714627",
+      "type": "Default",
+      "timestamp": "2023-09-19T16:21:33.217-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I broke bad in Neon",
+      "author": {
+        "id": "590725946496122894",
+        "name": "shincjzilla",
+        "discriminator": "0000",
+        "nickname": "SHIN CJZILLA",
+        "color": "#632B14",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590725946496122894/4818975d93773a88fc02ae290e216a81.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1282512067227811923",
+      "type": "Default",
+      "timestamp": "2024-09-08T20:25:04.749-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Last message was almost a year ago \uD83D\uDE22",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE22",
+          "code": "cry",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f622.svg"
+        }
+      ]
+    },
+    {
+      "id": "1282512471957180479",
+      "type": "Default",
+      "timestamp": "2024-09-08T20:26:41.244-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rip starfield 2023-2023",
+      "author": {
+        "id": "448986827022401548",
+        "name": "krazeymak",
+        "discriminator": "0000",
+        "nickname": "KrazeyMaK",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/448986827022401548/726dcaaef597c07c799b137c708aad36.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1282512909557170197",
+      "type": "Default",
+      "timestamp": "2024-09-08T20:28:25.576-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You were *an* game",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1282518999820664926",
+      "type": "Default",
+      "timestamp": "2024-09-08T20:52:37.608-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "truly",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 113
+}

@@ -1,0 +1,416 @@
+{
+  "guild": {
+    "id": "829808985556910091",
+    "name": "W.I.F.U.",
+    "iconUrl": "https://cdn.discordapp.com/icons/829808985556910091/0e124c8a74ba512970f89f5673eca58a.png?size=512"
+  },
+  "channel": {
+    "id": "829808986139394071",
+    "type": "GuildVoiceChat",
+    "categoryId": "829808986139394069",
+    "category": "Voice Channels",
+    "name": "General",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-02-07T20:18:50.149069-06:00",
+  "messages": [
+    {
+      "id": "1210758836785389578",
+      "type": "Default",
+      "timestamp": "2024-02-23T19:23:21.501-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge?si=d55ae73766b54e85",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Agora Hills",
+          "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge?si=d55ae73766b54e85",
+          "timestamp": null,
+          "description": "Doja Cat · Song · 2023",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/MAhdL8HANEp27kvy868pHqwvnomJsXyOOlc-Q8vcHuY/https/i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1210808674340311140",
+      "type": "Default",
+      "timestamp": "2024-02-23T22:41:23.7-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1210808674076074054",
+          "url": "https://cdn.discordapp.com/attachments/829808986139394071/1210808674076074054/Green-Day-Kerplunk-Flower-T-Shirt-1.png?ex=67a78933&is=67a637b3&hm=a667740397861b18b1aea17c1f20417e01804b14c654a8f00b1b9c596d3cfe93&",
+          "fileName": "Green-Day-Kerplunk-Flower-T-Shirt-1.png",
+          "fileSizeBytes": 286415
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1210815258180976680",
+      "type": "Default",
+      "timestamp": "2024-02-23T23:07:33.41-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cdn.discordapp.com/attachments/1144646148431298802/1203542932632637492/20240202_154846.png?ex=65e3eeb3&is=65d179b3&hm=75be5208ee8e042fab27b14fca1d8b2c744a52ecd63a73226bccbce7b6c9dcf2&",
+      "author": {
+        "id": "244979153718214658",
+        "name": "_dear",
+        "discriminator": "0000",
+        "nickname": "ots a smale, panik.",
+        "color": "#665203",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1287222867800363030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244979153718214658/ee2c957a977c6d41accf2ae1efd3067e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://cdn.discordapp.com/attachments/1144646148431298802/1203542932632637492/20240202_154846.png?ex=65e3eeb3&is=65d179b3&hm=75be5208ee8e042fab27b14fca1d8b2c744a52ecd63a73226bccbce7b6c9dcf2&",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/1144646148431298802/1203542932632637492/20240202_154846.png?ex=67a77873&is=67a626f3&hm=72f406be697e2400dad3c6e457a3348be2c6a26708c44733c10bcbfa073ba077&",
+            "width": 828,
+            "height": 739
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1210817656907767889",
+      "type": "Default",
+      "timestamp": "2024-02-23T23:17:05.311-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Bw3DSR9DZzA",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Kuromi - 679 (AI Cover) (I got a Glock in my Rari)",
+          "url": "https://www.youtube.com/watch?v=Bw3DSR9DZzA",
+          "timestamp": null,
+          "description": "Hello and welcome! I hope you enjoed this video, make sure to check the other covers on our channel\n\n\nCover was made using: https://voicify.ai/?ref=landen\nPerson who made this cover: https://www.youtube.com/@user-wh4ix2bj5/featured\nSong: Fetty Wap - 679 (I Got A Glock In My Rari)\n\n\nAll copyrights belong to an official artist\n#fettywap #kuromi #a...",
+          "color": "#FF0000",
+          "author": {
+            "name": "ByteBeats Lab",
+            "url": "https://www.youtube.com/channel/UChjkhCfXTHqL60vXt7vyTjQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1NZH9Rk4pk_TMu-YiBICxtxDT4AhjApuCxkBiieSNp0/https/i.ytimg.com/vi/Bw3DSR9DZzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/Bw3DSR9DZzA",
+            "width": 1280,
+            "height": 675
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1254259374713737216",
+      "type": "Default",
+      "timestamp": "2024-06-22T21:18:57.944-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Qw1Mx8nXub4",
+      "author": {
+        "id": "492124914946670593",
+        "name": "frodotheturtle",
+        "discriminator": "0000",
+        "nickname": "NikoNikoNiiiiii",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "891110963594551356",
+            "name": "Local Diversity",
+            "color": "#E91E63",
+            "position": 7
+          },
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "939240770026733678",
+            "name": "Poopy bois",
+            "color": "#632B14",
+            "position": 4
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492124914946670593/15097f08991ac574994b029f79c86801.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "mococo abyssgard - 679 (i got a glock in my rari) [ai cover]",
+          "url": "https://www.youtube.com/watch?v=Qw1Mx8nXub4",
+          "timestamp": null,
+          "description": "og: https://youtu.be/Pzz4Z-O7710?si=HnkXewKafgniWbxR\n\nart by @_LeChienNoir_\n\nai cover by https://www.youtube.com/@user-wh4ix2bj5/featured\n\n#hololive #aicover #mococoabyssgard",
+          "color": "#FF0000",
+          "author": {
+            "name": "sui",
+            "url": "https://www.youtube.com/channel/UCnH2tY4taTNMDvnXxgy-kCw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1TVHrfcN6rIc6OrzFEhEgbl8AKTDMytvUxAmFjaOUgI/https/i.ytimg.com/vi/Qw1Mx8nXub4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/Qw1Mx8nXub4",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1254276356192210977",
+      "type": "Default",
+      "timestamp": "2024-06-22T22:26:26.644-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Zombo spawner: 2516, -33, -211",
+      "author": {
+        "id": "290256357481906177",
+        "name": "baxjax",
+        "discriminator": "0000",
+        "nickname": "baxjax",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "829810562585985104",
+            "name": "Server Down?",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "831317070439645214",
+            "name": "God Squad",
+            "color": "#665203",
+            "position": 5
+          },
+          {
+            "id": "1324179617602469900",
+            "name": "Fallout February",
+            "color": "#9B59B6",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/290256357481906177/5a7fe22de4423dd1766acbd9f371c1f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}
