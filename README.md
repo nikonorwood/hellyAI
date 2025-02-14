@@ -1,5 +1,5 @@
 # hellyAI
-### Small AI powered Discord Bot
+### Small AI powered Discord Bot by Niko
 
 This repo is not nessesarily intended for public use but go ahead if you would like. 
 
